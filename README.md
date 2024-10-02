@@ -1,2 +1,2 @@
 # Cards
-In this repository i have added several cards which i made using CSS
+In this repository i have added card which i made using CSS
